@@ -13,3 +13,4 @@ Currently expanding skills through computer science studies for a seamless blend
 
 ## Contact Me
 - 📧 Email: marousi.hadi@Gmail.com
+- 💼 LinkedIn: [Hadi Marousi](https://www.linkedin.com/in/hadi-marousi-792195b7/)
