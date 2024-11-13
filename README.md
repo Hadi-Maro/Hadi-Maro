@@ -1,16 +1,15 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Hadi-Maro/Hadi-Maro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Hadi Marousi! 
 
-Here are some ideas to get you started:
+Experienced Materials and Metallurgical Engineer with a demonstrated history of working in the glass industry.
+Currently expanding skills through computer science studies for a seamless blend of traditional expertise and cutting-edge tech solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Skills
+- 🖥️ **Programming Languages**: JavaScript, TypeScript, Java, Python, C++
+- 🌐 **Web Technologies**: HTML, CSS, React, Express.js, Node.js
+- 💾 **Databases**: MongoDB, MySQL, SQL
+- 🔧 **Tools**: Git, npm, Vite
+
+## Contact Me
+- 📧 Email: marousi.hadi@Gmail.com
